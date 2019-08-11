@@ -1,0 +1,11 @@
+{
+  "name": "Semana-Omnistack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://marcelotakayama@github.com/marcelotakayama/Semana-Omnistack.git",
+  "author": "marcelotakayama <marcelo.takayama00@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
